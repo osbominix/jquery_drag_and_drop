@@ -5,4 +5,6 @@ this example is based on http://www.elated.com/articles/drag-and-drop-with-jquer
 
 the improvement is that instead of number also the text is now supported.
 
+![alt tag](https://raw.githubusercontent.com/osbominix/resources/master/images/cardplay.png)
+
 
